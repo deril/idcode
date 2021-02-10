@@ -1,6 +1,6 @@
 # idcode
 
-Generates random id code of baltic countries (Estonia, Latvia, Lithuania)
+Generates random personal (identity) code of the Baltic states (Estonia, Latvia, Lithuania)
 
 ## Parameters
 
