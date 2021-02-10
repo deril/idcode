@@ -1,0 +1,5 @@
+name: local-time
+version: ql-2021-01-24
+distinfo-subscription-url: qlot://localhost/local-time.txt
+release-index-url: qlot://localhost/local-time/ql-2021-01-24/releases.txt
+system-index-url: qlot://localhost/local-time/ql-2021-01-24/systems.txt
